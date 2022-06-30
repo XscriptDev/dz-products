@@ -1,0 +1,1 @@
+this is a Dataset where you can find algerian products with their codebar, brand , and product name , it could be useful to anyone who want to use it for creating a software for managing a supermarket
